@@ -1,1 +1,5 @@
-
+Jasonde-MacBook-Air:homework jasonyang$ deno run loop.js
+t= 2
+t= null
+t= 5
+t= null
