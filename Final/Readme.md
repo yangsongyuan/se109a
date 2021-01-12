@@ -1,1 +1,1 @@
-#用python實作桶排序法(Bucket sort)
+# 用python實作希爾排序法(Bucket sort)
