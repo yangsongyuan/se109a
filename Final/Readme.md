@@ -10,3 +10,4 @@
 ![GITHUB]( https://github.com/yangsongyuan/se109a/blob/master/Final/picture/%E7%B5%90%E6%9E%9C.png "圖片名稱")
 ## 參考資料
 https://blog.csdn.net/ggdhs/article/details/90613577
+https://jackkuo666.github.io/Data_Structure_with_Python_book/chapter6/section5.html
